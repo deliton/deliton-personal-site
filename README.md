@@ -1,2 +1,2 @@
-# deliton-personal-site
-A simple website generated with NextJS
+# My Personal Website
+This is a simple landing page generated with NextJS template
